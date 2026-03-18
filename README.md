@@ -1,2 +1,12 @@
-# weather-forecast-bot
-Gradio app with current weather + 7-day forecasts for 200k+ cities. Smart Pakistan fallback. Live demo on HF Spaces. Deploy in 60s with free OpenWeatherMap API.  👨‍💻 Nisar Ahmad | AI Chatbot Developer | github.com/nisarai
+# 🌤️ Weather Forecast Bot
+
+**Live Demo:** https://huggingface.co/spaces/nisarai/weather-bot
+
+## ✨ Features
+- ✅ 200k+ cities worldwide
+- ✅ Current weather + 7-day forecast
+- ✅ 1-2 second responses
+- ✅ Smart Pakistan city fallback
+- ✅ Mobile responsive UI
+
+## 🧪 Demo
