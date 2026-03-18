@@ -8,5 +8,4 @@
 - ✅ 1-2 second responses
 - ✅ Smart Pakistan city fallback
 - ✅ Mobile responsive UI
-
 ## 🧪 Demo
