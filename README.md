@@ -1,6 +1,6 @@
 # 🌤️ Weather Forecast Bot
 
-**Live Demo:** https://huggingface.co/spaces/nisarai/weather-bot
+**Live Demo:** https://huggingface.co/spaces/iamnisar/WEATHER-FORECAST
 
 ## ✨ Features
 - ✅ 200k+ cities worldwide
